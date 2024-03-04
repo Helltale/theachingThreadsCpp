@@ -1,0 +1,7 @@
+﻿  parallel.cpp
+C:\Users\pizdn\source\repos\parallel\parallel\parallel.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pizdn\source\repos\parallel\parallel\parallel.cpp(39,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pizdn\source\repos\parallel\parallel\parallel.cpp(52,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pizdn\source\repos\parallel\parallel\parallel.cpp(106,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pizdn\source\repos\parallel\parallel\parallel.cpp(119,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  parallel.vcxproj -> C:\Users\pizdn\source\repos\parallel\Debug\parallel.exe
